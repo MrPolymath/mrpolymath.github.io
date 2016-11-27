@@ -23,36 +23,15 @@
     </div>
 
     <!-- some social links to show off -->
-    <ul class="social-icons">
-
-      <li class="icon icon--facebook">
-        <a href="#">
-          <span class="icon__name">Facebook</span>
-        </a>
-      </li>
-      <li class="icon icon--linkedin">
-        <a href="#">
-          <span class="icon__name">LinkedIn</span>
-        </a>
-      </li>
-      <li class="icon icon--instagram">
-        <a href="#">
-          <span class="icon__name">Instagram</span>
-        </a>
-      </li>
-      <li class="icon icon--github">
-        <a href="#">
-          <span class="icon__name">GitHub</span>
-        </a>
-      </li>
-        <!-- <li>
+    <!-- <ul class="profile-social-links">
+        <li>
             <a href="https://www.facebook.com/danicarmona">
                 <svg viewBox="0 0 24 24">
                     <path fill="#3b5998" d="M17,2V2H17V6H15C14.31,6 14,6.81 14,7.5V10H14L17,10V14H14V22H10V14H7V10H10V6A4,4 0 0,1 14,2H17Z" />
                 </svg>
             </a>
-        </li> -->
-    </ul>
+        </li>
+    </ul> -->
 
 </aside>
 <style>
@@ -252,95 +231,6 @@ p {
 .profile-social-links li a img,
 .profile-social-links li a svg {
     width: 24px;
-}
-
-.social-icons {
-  max-width: 980px;
-  margin: 0 auto;
-}
-
-.icon {
-  float: left;
-  position: relative;
-  width: 19%;
-  height: 0;
-  margin: 1% 0.5%;
-  padding-bottom: 19%;
-}
-@media all and (min-width: 640px) {
-  .icon {
-    width: 9%;
-    padding-bottom: 9%;
-  }
-}
-.icon:last-of-type {
-  margin-right: 0;
-}
-.icon a {
-  display: block;
-  position: absolute;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-  border-radius: 10px;
-  background-color: #fff;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center center;
-  -webkit-transition: all .2s ease-out;
-  transition: all .2s ease-out;
-}
-.icon a:hover {
-  background-color: #222;
-  background-size: 0%;
-  -webkit-transition: all .2s ease-out;
-  transition: all .2s ease-out;
-}
-
-.icon__name {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  margin-top: -7px;
-  color: #fff;
-  font-size: 13px;
-  text-align: center;
-  -webkit-transition: all .3s ease-out;
-  transition: all .3s ease-out;
-  opacity: 0;
-  -webkit-filter: blur(25px);
-          filter: blur(25px);
-  -webkit-transform: translateZ(0);
-          transform: translateZ(0);
-  will-change: transform;
-}
-.icon:hover .icon__name {
-  -webkit-transition: all .3s ease-out;
-  transition: all .3s ease-out;
-  opacity: 1;
-  -webkit-filter: blur(0);
-          filter: blur(0);
-}
-
-.icon--facebook a {
-  background-color: #3b5998;
-  background-image: url("http://benhodgson.net/codepen/social/facebook-128.png");
-}
-
-.icon--linkedin a {
-  background-color: #007fb1;
-  background-image: url("http://benhodgson.net/codepen/social/linkedin-128.png");
-}
-
-.icon--instagram a {
-  background-color: #5c3d2e;
-  background-image: url("http://benhodgson.net/codepen/social/instagram-128.png");
-}
-
-.icon--github a {
-  background-color: #4183c4;
-  background-image: url("http://benhodgson.net/codepen/social/github-128.png");
 }
 
 
