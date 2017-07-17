@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who I was"
+title:  "Who was I?"
 date:   2017-07-16 14:04:22 +0200
 categories: me
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On my first business"
-date:   2017-07-17 00:30:00 +0200
+date:   2017-07-18 00:30:00 +0200
 categories: business
 ---
 ***I'm the kid who some people used to dislike because I had good grades, was good at sports, drawing and playing the piano and wasn't physically ungracefull.***
