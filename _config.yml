@@ -17,6 +17,7 @@ title: Daniel Carmona
 author: Daniel Carmona Serrat
 email: daniel@carmona.email
 github_username: MrPolymath
+repository: mrpolymath/mrpolymath.github.io
 description: > # this means to ignore newlines until "baseurl:"
   This blog has been conceived as a way of telling the world all the adventures that I have been through
   ever since I started university and founded my first company as well as to explain my day-to-day life and future projects and ideas that I'm working on.
@@ -24,8 +25,10 @@ description: > # this means to ignore newlines until "baseurl:"
   help others and hopefully entertain all of you, because that is a real roller coaster of events.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: MrPolymath
+comments: true
+disqus:
+  shortname: danielcarmona
 
 # Build settings
 markdown: kramdown
