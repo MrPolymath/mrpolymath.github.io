@@ -36,7 +36,7 @@
     text-decoration: none;
 }
 
-.footer-col-3 {
+.footer-col-2 {
   width: -webkit-calc(65% - (30px / 2));
   width: calc(65% - (30px / 2));
 }
@@ -47,6 +47,10 @@
 
 .post-content {
   text-align: justify;
+}
+
+footer .avatar {
+  max-width: 80px;
 }
 
 @media screen and (max-width: 600px) {
