@@ -38,7 +38,7 @@ The name we decided for the company is not in this picture, but I couldn't find 
 
 ### ***Constitution*** ###
 
-We finished final exams on late June, had the idea with Héctor during early July and a bit later spoke about it and made an agreement with the third partner. ***We finally made it all official on the 25th September 2014***, less than a week before August came and it was too late to do the paperwork.
+We finished final exams on late June, had the idea with Héctor during early July and a bit later spoke about it and made an agreement with the third partner. ***We finally made it all official on the 25th July 2014***, less than a week before August came and it was too late to do the paperwork.
 
 Funny story though, when we finally had a name in mind, they wouldn't accept it as the name of the company, so the company was registered with the second name in our list, ***Cubiprint.***
 
