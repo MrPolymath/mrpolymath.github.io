@@ -8,7 +8,7 @@ As I said, the constitution of our company is just the beginning of a long story
 
 ### ***The third partner*** ###
 
-***One little detail*** that I haven't mentioned yet ***is that Héctor and I had a third partner, a 40 year old father, directive of a medium sized company and also student of Aerospace Engineering.*** You may wonder ***how could he have time*** for studying at the same time that he had another job and a child to take care of, even more, to start a new company meantime. ***I wondered that too :joy:.*** The answer is simple, he's the most energetic man I've ever met, by far! ***He was a caffeine addict***. I remember him coming home, asking for a coffee, and when I went to the kitchen seeing that he indeed prepared coffee, but not one cup but too, and drank them both immediately :coffee::coffee:.
+***One little detail*** that I haven't mentioned yet ***is that Héctor and I had a third partner, a 40 year old father, directive of a medium sized company and also student of Aerospace Engineering.*** You may wonder ***how could he have time*** for studying at the same time that he had another job and a child to take care of, even more, to start a new company meantime. ***I wondered that too :joy:.*** The answer is simple, he's the most energetic man I've ever met, by far! ***He was a caffeine addict***. I remember him coming home, asking for a coffee, and when I went to the kitchen seeing that he indeed prepared coffee, but not one cup but two, and drank them both immediately :coffee::coffee:.
 
 #### Why did we need him? ####
 
