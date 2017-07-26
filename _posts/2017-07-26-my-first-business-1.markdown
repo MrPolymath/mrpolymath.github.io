@@ -44,9 +44,9 @@ Funny story though, when we finally had a name in mind, they wouldn't accept it 
 
 ***We all got a 33.3% of the company.***
 
-### ***Finding officess*** ###
+### ***Finding an office*** ###
 
-We now needed offices, or at least we though so, and ***we applied for a business acceleration program that could give us offices for free during 9 months.*** The end date for applying was the 31st July, so we had to prepare a business plan very very quickly.
+We now needed an office, or at least we though so, and ***we applied for a business acceleration program that could give us offices for free during 9 months.*** The end date for applying was the 31st July, so we had to prepare a business plan very very quickly.
 
 We were also speaking with a possible client that was going to pay 1000€, so we told that to the accelerator when they asked if we had already made any money.
 
