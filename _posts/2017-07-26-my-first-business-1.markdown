@@ -52,7 +52,7 @@ We were also speaking with a possible client that was going to pay 1000€, so w
 
 I can't find exactly when it was that we were told that ***we got accepted***, but I imagine it was between the end of August and the beginning of September. ***What a nice way of starting things out! :chart_with_upwards_trend:***
 
-In the following picture you can see our offices with 3 3D printers and a lot of cables and other stuff. On top you can see the plastic spools in a metallic frame. There's even a book from our university for a lecture called "Aerospace Vehicles". ***The best part of this pictures is*** the one that is more hidden, ***the sofa on the left.*** There was 2 sofas like this one, very small ones, but ***I can't count how many nights we slept there... Too many!*** I will explain this in much more detail in a further post.
+In the following picture you can see our offices with 3 3D printers and a lot of cables and other stuff. On top you can see the plastic spools in a metallic frame. There's even a book from our university for a lecture called "Aerospace Vehicles". ***The best part of this picture is*** the one that is more hidden, ***the sofa on the left.*** There was 2 sofas like this one, very small ones, but ***I can't count how many nights we slept there... Too many!*** I will explain this in much more detail in a further post.
 
 ![Our offices with the 3D printers making a mess]({{ site.url }}/assets/kautic_office.jpg)
 
