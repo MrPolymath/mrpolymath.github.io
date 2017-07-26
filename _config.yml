@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Daniel Carmona
-url: https://danielcarmona.me
 author: Daniel Carmona Serrat
 email: daniel@carmona.email
 github_username: MrPolymath
@@ -25,7 +24,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I hope all my previous experience can
   help others and hopefully entertain all of you, because that is a real roller coaster of events.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://danielcarmona.me"
 twitter_username: MrPolymath
 comments: true
 disqus:
