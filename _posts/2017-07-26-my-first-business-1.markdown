@@ -12,7 +12,7 @@ As I said, the constitution of our company is just the beginning of a long story
 
 #### Why did we need him? ####
 
-Among all the qualities that he had, the most important one back then where two things. First of all, he had money and we didn't, and ***he said he would put money on the business*** when things started to get better. ***ERROR!***
+Amongst all the qualities that he had, the most important ones back then were two things. First of all, he had money and we didn't, and ***he said he would put money on the business*** when things started to get better. ***ERROR!***
 
 The other thing is that he had already founded other companies, and thus knew the procedures that had to be done in order to legally create a company. The thing is that here in Spain it isn't as easy as in other countries, and we felt we needed him to go faster.
 
